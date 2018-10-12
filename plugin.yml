@@ -1,0 +1,9 @@
+name: PayGate
+version: 1.0
+author: brasswood
+main: com.gmail.andrewriachi.paygate.PayGate
+depend: [Vault]
+commands: 
+        paygate:
+                description: Promotes or demotes player.
+                usage: paygate <promote|demote> <player>
